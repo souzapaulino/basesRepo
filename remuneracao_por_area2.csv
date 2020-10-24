@@ -1,0 +1,82 @@
+ano,percentual_mul,salario_homens,salario_mulheres,area_conhecimento
+2009,83.46,8345.03,6964.36,Ciências agrárias
+2009,90.58,8038.97,7281.53,Ciências biológicas
+2009,88.35,8708.19,7693.82,Ciências da saúde
+2009,89.02,8312.73,7400.34,Ciências exatas e da terra
+2009,91.29,8116.82,7410.17,Ciências humanas
+2009,74.88,11425.34,8555.15,Ciências sociais aplicadas
+2009,84.43,9450.17,7978.77,Engenharias
+2009,95.81,7333.08,7026.13,Linguística, letras e artes
+2009,86.16,8719.23,7512.50,Multidisciplinar
+2010,82.56,10560.57,8719.07,Ciências agrárias
+2010,90.03,9923.44,8934.28,Ciências biológicas
+2010,89.64,10405.34,9327.79,Ciências da saúde
+2010,89.39,10421.17,9315.25,Ciências exatas e da terra
+2010,92.16,10124.92,9331.11,Ciências humanas
+2010,77.26,13124.58,10140.23,Ciências sociais aplicadas
+2010,82.93,11563.67,9589.47,Engenharias
+2010,94.04,9328.91,8773.11,Linguística, letras e artes
+2010,85.81,10254.53,8798.92,Multidisciplinar
+2011,82.16,11123.31,9138.85,Ciências agrárias
+2011,91.16,10319.47,9406.88,Ciências biológicas
+2011,89.21,11008.62,9820.32,Ciências da saúde
+2011,89.30,10894.12,9728.45,Ciências exatas e da terra
+2011,91.78,10601.91,9730.72,Ciências humanas
+2011,78.41,13770.56,10797.07,Ciências sociais aplicadas
+2011,84.84,12176.04,10330.49,Engenharias
+2011,95.14,9869.73,9390.42,Linguística, letras e artes
+2011,86.36,10723.56,9260.91,Multidisciplinar
+2012,81.55,12339.36,10062.64,Ciências agrárias
+2012,90.31,10942.13,9881.84,Ciências biológicas
+2012,88.40,11426.89,10101.42,Ciências da saúde
+2012,89.92,11321.23,10179.58,Ciências exatas e da terra
+2012,92.52,10904.99,10089.69,Ciências humanas
+2012,77.65,14150.11,10987.82,Ciências sociais aplicadas
+2012,84.88,12634.92,10724.02,Engenharias
+2012,94.55,10221.33,9664.23,Linguística, letras e artes
+2012,88.93,11186.23,9948.41,Multidisciplinar
+2013,81.78,13008.15,10638.44,Ciências agrárias
+2013,90.30,11927.52,10771.02,Ciências biológicas
+2013,88.97,12443.91,11071.81,Ciências da saúde
+2013,90.17,12595.00,11356.32,Ciências exatas e da terra
+2013,92.23,11957.03,11028.04,Ciências humanas
+2013,80.79,15152.97,12242.53,Ciências sociais aplicadas
+2013,85.34,13968.58,11920.51,Engenharias
+2013,95.55,11461.10,10951.56,Linguística, letras e artes
+2013,89.99,12089.20,10879.22,Multidisciplinar
+2014,81.69,14159.57,11566.44,Ciências agrárias
+2014,90.05,12910.82,11626.24,Ciências biológicas
+2014,88.74,13374.39,11869.04,Ciências da saúde
+2014,89.57,13938.11,12485.01,Ciências exatas e da terra
+2014,92.31,13076.89,12071.79,Ciências humanas
+2014,80.90,16018.86,12959.64,Ciências sociais aplicadas
+2014,83.85,15323.25,12848.22,Engenharias
+2014,95.55,12617.98,12056.76,Linguística, letras e artes
+2014,88.29,13173.59,11630.65,Multidisciplinar
+2015,81.36,14818.52,12056.25,Ciências agrárias
+2015,90.35,13438.88,12142.41,Ciências biológicas
+2015,88.51,13979.55,12372.65,Ciências da saúde
+2015,89.43,14553.41,13015.55,Ciências exatas e da terra
+2015,92.28,13769.66,12706.72,Ciências humanas
+2015,79.79,16989.39,13555.81,Ciências sociais aplicadas
+2015,83.87,15916.27,13348.37,Engenharias
+2015,94.99,13131.19,12472.90,Linguística, letras e artes
+2015,87.62,13742.31,12041.40,Multidisciplinar
+2016,81.50,15779.88,12860.58,Ciências agrárias
+2016,89.64,14384.78,12894.96,Ciências biológicas
+2016,88.28,14904.35,13157.60,Ciências da saúde
+2016,90.08,15539.89,13997.92,Ciências exatas e da terra
+2016,92.69,14556.88,13492.37,Ciências humanas
+2016,79.88,17854.88,14262.43,Ciências sociais aplicadas
+2016,84.92,16834.48,14296.54,Engenharias
+2016,95.97,13885.01,13325.80,Linguística, letras e artes
+2016,87.68,14465.56,12683.18,Multidisciplinar
+2017,81.44,16510.94,13446.77,Ciências agrárias
+2017,88.54,14923.49,13213.80,Ciências biológicas
+2017,87.62,15395.57,13489.05,Ciências da saúde
+2017,89.43,16485.89,14743.93,Ciências exatas e da terra
+2017,92.87,15314.64,14223.47,Ciências humanas
+2017,80.44,18410.91,14809.67,Ciências sociais aplicadas
+2017,84.69,17713.37,15002.05,Engenharias
+2017,96.60,14604.66,14108.14,Linguística, letras e artes
+2017,86.18,15204.33,13102.54,Multidisciplinar
